@@ -9,7 +9,7 @@ LOG_FILE = DATA_DIR / "generated-log.json"
 
 POSTS_PER_RUN = int(os.getenv("POSTS_PER_RUN", "10"))
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "").strip()
-GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash").strip()
+GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-3.5-flash-lite").strip()
 PEXELS_API_KEY = os.getenv("PEXELS_API_KEY", "").strip()
 
 SITE_NAME = "PoetryKitaab"
