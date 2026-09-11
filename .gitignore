@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules/
+dist/
+.astro/
+
+# Environment files
+.env
+.env.*
+
+# System files
+.DS_Store
