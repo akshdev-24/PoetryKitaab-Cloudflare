@@ -48,5 +48,55 @@
     "source_image_id": "11191072",
     "status": "published",
     "failure_reason": null
+  },
+  {
+    "id": "pk-20260911131528947175",
+    "slug": "adhuri-baat",
+    "category": "love",
+    "generated_at": "2026-09-11T13:15:27.273963+00:00",
+    "image_provider": "Pexels",
+    "source_image_id": "35303674",
+    "status": "published",
+    "failure_reason": null
+  },
+  {
+    "id": "pk-20260911131754685022",
+    "slug": "adhuri-kahani",
+    "category": "love",
+    "generated_at": "2026-09-11T13:17:53.576152+00:00",
+    "image_provider": "Pexels",
+    "source_image_id": "7663841",
+    "status": "published",
+    "failure_reason": null
+  },
+  {
+    "id": "pk-20260911132215127698",
+    "slug": "umeed-ka-savera",
+    "category": "attitude",
+    "generated_at": "2026-09-11T13:22:13.830273+00:00",
+    "image_provider": "Pexels",
+    "source_image_id": "35001477",
+    "status": "published",
+    "failure_reason": null
+  },
+  {
+    "id": "pk-20260911132217792855",
+    "slug": "ankahi-mohabbat",
+    "category": "love",
+    "generated_at": "2026-09-11T13:22:16.474215+00:00",
+    "image_provider": "Pexels",
+    "source_image_id": "31893667",
+    "status": "published",
+    "failure_reason": null
+  },
+  {
+    "id": "pk-20260911132505077891",
+    "slug": "self-respect",
+    "category": "attitude",
+    "generated_at": "2026-09-11T13:25:03.816457+00:00",
+    "image_provider": "Pexels",
+    "source_image_id": "35611214",
+    "status": "published",
+    "failure_reason": null
   }
 ]
