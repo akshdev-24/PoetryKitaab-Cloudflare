@@ -23,7 +23,7 @@ jobs:
     timeout-minutes: 20
     env:
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-      GEMINI_MODEL: ${{ secrets.GEMINI_MODEL || 'gemini-2.5-flash' }}
+      GEMINI_MODEL: ${{ secrets.GEMINI_MODEL || 'gemini-3.5-flash-lite' }}
       PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
       SITE_URL: https://poetrykitaab.pages.dev
       POSTS_PER_RUN: ${{ github.event.inputs.posts || '10' }}
