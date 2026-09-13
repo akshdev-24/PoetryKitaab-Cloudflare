@@ -118,5 +118,55 @@
     "source_image_id": "29139473",
     "status": "published",
     "failure_reason": null
+  },
+  {
+    "id": "pk-20260913155438181600",
+    "slug": "adhuri-si-khamoshi",
+    "category": "love",
+    "generated_at": "2026-09-13T15:54:36.634946+00:00",
+    "image_provider": "Pexels",
+    "source_image_id": "31270977",
+    "status": "published",
+    "failure_reason": null
+  },
+  {
+    "id": "pk-20260913155506195201",
+    "slug": "nayi-subah-ki-umeed",
+    "category": "attitude",
+    "generated_at": "2026-09-13T15:55:04.546727+00:00",
+    "image_provider": "Pexels",
+    "source_image_id": "15392096",
+    "status": "published",
+    "failure_reason": null
+  },
+  {
+    "id": "pk-20260913155508167164",
+    "slug": "adhoori-baat",
+    "category": "love",
+    "generated_at": "2026-09-13T15:55:07.489025+00:00",
+    "image_provider": "Pexels",
+    "source_image_id": "29139473",
+    "status": "published",
+    "failure_reason": null
+  },
+  {
+    "id": "pk-20260913155609246599",
+    "slug": "ankahee",
+    "category": "love",
+    "generated_at": "2026-09-13T15:56:08.070321+00:00",
+    "image_provider": "Pexels",
+    "source_image_id": "10280643",
+    "status": "published",
+    "failure_reason": null
+  },
+  {
+    "id": "pk-20260913155901292046",
+    "slug": "adhuri-khamoshi",
+    "category": "love",
+    "generated_at": "2026-09-13T15:59:00.129111+00:00",
+    "image_provider": "Pexels",
+    "source_image_id": "18359133",
+    "status": "published",
+    "failure_reason": null
   }
 ]
