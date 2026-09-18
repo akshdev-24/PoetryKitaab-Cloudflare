@@ -188,5 +188,15 @@
     "source_image_id": "32417216",
     "status": "published",
     "failure_reason": null
+  },
+  {
+    "id": "pk-20260918095717279183",
+    "slug": "adhoori-si-baat",
+    "category": "love",
+    "generated_at": "2026-09-18T09:57:16.256921+00:00",
+    "image_provider": "Pexels",
+    "source_image_id": "16138981",
+    "status": "published",
+    "failure_reason": null
   }
 ]
