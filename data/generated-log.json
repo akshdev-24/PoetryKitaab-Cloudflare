@@ -228,5 +228,15 @@
     "source_image_id": "27586680",
     "status": "published",
     "failure_reason": null
+  },
+  {
+    "id": "pk-20261020101541475696",
+    "slug": "khamosh-yaadein",
+    "category": "sad",
+    "generated_at": "2026-10-20T10:15:39.752170+00:00",
+    "image_provider": "Pexels",
+    "source_image_id": "5877860",
+    "status": "published",
+    "failure_reason": null
   }
 ]
